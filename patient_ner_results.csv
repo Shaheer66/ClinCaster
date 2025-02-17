@@ -1,0 +1,2 @@
+Sign/Symptoms,Predicted Diseases,Duration,Medication
+"['vomiting', 'pain', 'hurts', 'stomach', 'pain']",[],"['night', 'one', 'week']",['antithecid']
